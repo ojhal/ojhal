@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [file:///Users/ojhalpatwa/Downloads/OjhalPatwaResume%20(6)%20(1).pdf](file:///Users/ojhalpatwa/Downloads/OjhalPatwaResume%20(6)%20(1).pdf)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ojhal-patwa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ojhal-patwa/" height="30" width="40" /></a>
 <a href="https://instagram.com/instagram.com/glamorize_mee01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/glamorize_mee01" height="30" width="40" /></a>
